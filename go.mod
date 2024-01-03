@@ -1,4 +1,4 @@
-module color-palette
+module github.com/bsalbilla06/random-color-palette
 
 go 1.21.5
 
